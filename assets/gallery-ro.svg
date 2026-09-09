@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title">
+  <title id="title">RO Cards</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a3567"/>
+      <stop offset="55%" stop-color="#0c477f"/>
+      <stop offset="100%" stop-color="#0a315f"/>
+    </linearGradient>
+    <linearGradient id="metal" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f8fbff"/>
+      <stop offset="55%" stop-color="#dce5ef"/>
+      <stop offset="100%" stop-color="#aebdcd"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="12" stdDeviation="14" flood-opacity=".22"/>
+    </filter>
+  </defs>
+  
+  <rect x="0" y="0" width="1200" height="800" rx="34" fill="url(#bg)"/>
+  <circle cx="1050" cy="100" r="230" fill="#4c91ca" opacity=".18"/>
+  <circle cx="1130" cy="735" r="170" fill="#071f45" opacity=".20"/>
+  <g fill="none" stroke="#f5bf25" stroke-width="12" stroke-linecap="round">
+    <path d="M92 118h68M126 84v68M101 93l50 50M151 93l-50 50"/>
+  </g>
+
+  <!-- RO filtration illustration -->
+  <g filter="url(#shadow)">
+    <rect x="305" y="215" width="590" height="42" rx="12" fill="#dce6ef"/>
+    <rect x="325" y="190" width="550" height="42" rx="20" fill="#eef4f8" stroke="#c3d1de" stroke-width="4"/>
+    <rect x="405" y="150" width="390" height="70" rx="20" fill="url(#metal)" stroke="#c4d1de" stroke-width="4"/>
+    <rect x="445" y="177" width="310" height="10" rx="5" fill="#1662a5"/>
+    <path d="M405 205H355V270M795 205H845V270" fill="none" stroke="#dbe5ed" stroke-width="18" stroke-linecap="round"/>
+    <rect x="300" y="250" width="600" height="50" rx="8" fill="#1260a9"/>
+    <!-- three filter housings -->
+    <g>
+      <rect x="340" y="295" width="160" height="340" rx="25" fill="url(#metal)" stroke="#bccbd8" stroke-width="4"/>
+      <rect x="520" y="295" width="160" height="340" rx="25" fill="url(#metal)" stroke="#bccbd8" stroke-width="4"/>
+      <rect x="700" y="295" width="160" height="340" rx="25" fill="url(#metal)" stroke="#bccbd8" stroke-width="4"/>
+      <rect x="340" y="295" width="160" height="42" rx="10" fill="#eef4f8"/>
+      <rect x="520" y="295" width="160" height="42" rx="10" fill="#eef4f8"/>
+      <rect x="700" y="295" width="160" height="42" rx="10" fill="#eef4f8"/>
+      <!-- droplets -->
+      <g fill="#55a0dc">
+        <path d="M420 415c0-22 28-43 28-43s28 21 28 43a28 28 0 1 1-56 0z"/>
+        <path d="M600 415c0-22 28-43 28-43s28 21 28 43a28 28 0 1 1-56 0z"/>
+        <path d="M780 415c0-22 28-43 28-43s28 21 28 43a28 28 0 1 1-56 0z"/>
+      </g>
+      <rect x="350" y="620" width="140" height="18" rx="9" fill="#a7b9c9"/>
+      <rect x="530" y="620" width="140" height="18" rx="9" fill="#a7b9c9"/>
+      <rect x="710" y="620" width="140" height="18" rx="9" fill="#a7b9c9"/>
+    </g>
+  </g>
+
+  <text x="72" y="640" font-family="Arial, sans-serif" font-size="26" font-weight="800" fill="#f5bf25">04</text>
+  <text x="72" y="700" font-family="Arial, sans-serif" font-size="55" font-weight="800" fill="#ffffff">RO / Water Purifier</text>
+  <text x="72" y="744" font-family="Arial, sans-serif" font-size="25" fill="#e9f1f8">Repair, service &amp; maintenance</text>
+  <text x="72" y="780" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">View gallery  →</text>
+
+</svg>

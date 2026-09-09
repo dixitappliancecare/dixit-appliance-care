@@ -1,0 +1,29 @@
+FINAL QA REVIEW – DIXIT APPLIANCE CARE
+
+Gallery
+- Removed static GALLERY_IMAGES manifest and gallery-data.js.
+- Gallery automatically fetches public repository folder contents through GitHub Contents API.
+- Configured repository: dixitappliancecare/dixit-appliance-care, branch: main.
+- Supported: JPG, JPEG, PNG, WEBP.
+- localStorage cache: 6 hours per category.
+- Loading skeleton, empty state, error state and retry added.
+- Lazy loading and responsive accessible full-screen preview added.
+
+UI / UX / Accessibility
+- Gallery redesigned with asymmetric premium layout, featured service-center card, layered gradients, service markers and responsive layouts.
+- Keyboard focus states, accessible labels, dialog controls, touch targets and reduced-motion support improved.
+
+Cleanup
+- Removed obsolete manifest and duplicate legacy gallery copies.
+- Removed genuinely unused legacy image/logo variants after reference checks.
+- Preserved assets still used by service pages and homepage.
+- Removed duplicate high-size PNG versions where optimized WEBP equivalents were available.
+
+Verification
+- 46 HTML pages parsed successfully.
+- Local src/href reference check: 0 missing references.
+- script.js syntax check: passed.
+- ZIP integrity test: passed.
+- Forbidden old brand string check: no matches.
+
+Note: GitHub API requires the repository to remain public. If the repository owner, repository name or branch changes, update GALLERY_REPOSITORY in script.js.

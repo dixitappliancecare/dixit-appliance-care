@@ -1,0 +1,17 @@
+{
+  "name": "Dixit Appliance Care",
+  "short_name": "Dixit Care",
+  "description": "AC, refrigerator, washing machine and RO repair & service in Kosi Kalan and nearby areas.",
+  "start_url": "/dixit-appliance-care/",
+  "scope": "/dixit-appliance-care/",
+  "display": "standalone",
+  "theme_color": "#071d3d",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "assets/brand-logo.webp",
+      "sizes": "any",
+      "type": "image/webp"
+    }
+  ]
+}

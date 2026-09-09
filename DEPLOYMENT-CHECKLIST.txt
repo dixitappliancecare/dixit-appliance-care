@@ -1,0 +1,18 @@
+DIXIT APPLIANCE CARE — FINAL DEPLOYMENT CHECKLIST
+
+Live site:
+https://dixitappliancecare.github.io/dixit-appliance-care/
+
+Sitemap:
+https://dixitappliancecare.github.io/dixit-appliance-care/sitemap.xml
+
+Robots:
+https://dixitappliancecare.github.io/dixit-appliance-care/robots.txt
+
+Important:
+- Keep assets/, script.js, manifest.webmanifest.
+- All service/location pages use the same header and footer as the homepage.
+- All nested pages load ../style.css, ../assets/* and ../script.js.
+- All visible service hours are 8:00 AM – 8:00 PM.
+- All canonical/OG/schema URLs use the current GitHub Pages domain.
+- Submit the sitemap in Google Search Console after deployment.
