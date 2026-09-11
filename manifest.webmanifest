@@ -9,9 +9,15 @@
   "background_color": "#ffffff",
   "icons": [
     {
-      "src": "assets/brand-logo.webp",
-      "sizes": "any",
-      "type": "image/webp"
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }

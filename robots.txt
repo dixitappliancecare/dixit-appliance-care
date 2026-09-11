@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dixitappliancecare.github.io/dixit-appliance-care/sitemap.txt
+Sitemap: https://dixitappliancecare.github.io/dixit-appliance-care/sitemap.xml

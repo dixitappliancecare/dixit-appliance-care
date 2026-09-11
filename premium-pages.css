@@ -6,3 +6,15 @@
 
 /* Complete service and location directory */
 .comprehensive-services{background:#f5f8fc}.service-detail-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}.service-detail-card{background:#fff;border:1px solid #dce5f0;border-radius:20px;padding:24px;box-shadow:0 12px 35px rgba(7,29,61,.05)}.service-detail-card h3{margin:0 0 14px;color:#082653;font-size:24px}.service-detail-card ul{columns:2;gap:26px;margin:0;padding-left:20px}.service-detail-card li{break-inside:avoid;margin:8px 0;color:#526174;line-height:1.45}.service-contact-note{margin-top:24px;text-align:center}.location-directory{background:linear-gradient(135deg,#071d3d,#0a3975);color:#fff}.location-directory h2{color:#fff}.location-directory .section-heading p{color:#d9e8fb}.location-link-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}.location-link-grid a{display:flex;align-items:center;justify-content:center;text-align:center;min-height:58px;padding:10px;background:rgba(255,255,255,.09);border:1px solid rgba(255,255,255,.18);border-radius:12px;color:#fff;font-weight:800}.location-link-grid a:hover{background:#ffd34e;color:#071d3d}.location-directory .location-band{margin-top:22px;background:rgba(255,255,255,.94);color:#24344f}.rate-table-wrap{overflow-x:auto;background:#fff;border-radius:18px;border:1px solid #dbe5f0}.rate-table{width:100%;border-collapse:collapse;min-width:850px}.rate-table th{background:#082653;color:#fff;text-align:left;padding:16px}.rate-table td{padding:15px;border-bottom:1px solid #e5ebf2;color:#42536a;vertical-align:top}.rate-table tr:nth-child(even){background:#f8fbff}.rate-note{margin-top:16px;background:#fff7d7;border:1px solid #efd782;border-radius:14px;padding:16px;color:#594900;line-height:1.65}@media(max-width:850px){.service-detail-grid{grid-template-columns:1fr}.service-detail-card ul{columns:1}.location-link-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:480px){.location-link-grid{grid-template-columns:1fr}}
+
+/* Preserve the complete service-center photograph, including the upper shop signboard, across responsive page heroes. */
+.page-hero-media img{
+  height:auto;
+  aspect-ratio:4 / 3;
+  object-fit:cover;
+  object-position:center center;
+}
+@media(max-width:850px){
+  .page-hero-media{width:100%;}
+  .page-hero-media img{width:100%;height:auto;aspect-ratio:4 / 3;object-position:center center;}
+}

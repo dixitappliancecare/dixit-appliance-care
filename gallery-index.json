@@ -1,0 +1,260 @@
+{
+  "ac": [
+    {
+      "name": "AC1.jpeg",
+      "src": "gallery/ac/AC1.jpeg"
+    },
+    {
+      "name": "AC10.jpg",
+      "src": "gallery/ac/AC10.jpg"
+    },
+    {
+      "name": "AC11.jpg",
+      "src": "gallery/ac/AC11.jpg"
+    },
+    {
+      "name": "AC12.jpg",
+      "src": "gallery/ac/AC12.jpg"
+    },
+    {
+      "name": "AC13.jpg",
+      "src": "gallery/ac/AC13.jpg"
+    },
+    {
+      "name": "AC14.jpg",
+      "src": "gallery/ac/AC14.jpg"
+    },
+    {
+      "name": "AC15.jpg",
+      "src": "gallery/ac/AC15.jpg"
+    },
+    {
+      "name": "AC16.jpg",
+      "src": "gallery/ac/AC16.jpg"
+    },
+    {
+      "name": "AC2.jpeg",
+      "src": "gallery/ac/AC2.jpeg"
+    },
+    {
+      "name": "AC3.jpeg",
+      "src": "gallery/ac/AC3.jpeg"
+    },
+    {
+      "name": "AC4.jpeg",
+      "src": "gallery/ac/AC4.jpeg"
+    },
+    {
+      "name": "AC5.jpeg",
+      "src": "gallery/ac/AC5.jpeg"
+    },
+    {
+      "name": "AC6.jpeg",
+      "src": "gallery/ac/AC6.jpeg"
+    },
+    {
+      "name": "AC8.jpg",
+      "src": "gallery/ac/AC8.jpg"
+    },
+    {
+      "name": "AC9.jpg",
+      "src": "gallery/ac/AC9.jpg"
+    },
+    {
+      "name": "image5.png",
+      "src": "gallery/ac/image5.png"
+    }
+  ],
+  "fridge": [
+    {
+      "name": "image4.png",
+      "src": "gallery/fridge/image4.png"
+    },
+    {
+      "name": "image6.png",
+      "src": "gallery/fridge/image6.png"
+    },
+    {
+      "name": "RF1.jpeg",
+      "src": "gallery/fridge/RF1.jpeg"
+    },
+    {
+      "name": "RF2.jpeg",
+      "src": "gallery/fridge/RF2.jpeg"
+    },
+    {
+      "name": "RF3.jpeg",
+      "src": "gallery/fridge/RF3.jpeg"
+    },
+    {
+      "name": "RF4.jpg",
+      "src": "gallery/fridge/RF4.jpg"
+    },
+    {
+      "name": "RF5.jpg",
+      "src": "gallery/fridge/RF5.jpg"
+    },
+    {
+      "name": "RF6.jpg",
+      "src": "gallery/fridge/RF6.jpg"
+    },
+    {
+      "name": "RF7.jpg",
+      "src": "gallery/fridge/RF7.jpg"
+    },
+    {
+      "name": "RF8.jpg",
+      "src": "gallery/fridge/RF8.jpg"
+    }
+  ],
+  "ro": [
+    {
+      "name": "image8.png",
+      "src": "gallery/ro/image8.png"
+    },
+    {
+      "name": "RO1.jpg",
+      "src": "gallery/ro/RO1.jpg"
+    },
+    {
+      "name": "RO2.jpg",
+      "src": "gallery/ro/RO2.jpg"
+    },
+    {
+      "name": "RO3.jpg",
+      "src": "gallery/ro/RO3.jpg"
+    },
+    {
+      "name": "RO4.jpg",
+      "src": "gallery/ro/RO4.jpg"
+    },
+    {
+      "name": "RO5.jpg",
+      "src": "gallery/ro/RO5.jpg"
+    },
+    {
+      "name": "RO6.jpeg",
+      "src": "gallery/ro/RO6.jpeg"
+    },
+    {
+      "name": "RO7.jpg",
+      "src": "gallery/ro/RO7.jpg"
+    }
+  ],
+  "service-center": [
+    {
+      "name": "ChatGPT Image Aug 29, 2026, 06_01_32 PM.png",
+      "src": "gallery/service-center/ChatGPT Image Aug 29, 2026, 06_01_32 PM.png"
+    },
+    {
+      "name": "ChatGPT Image Aug 29, 2026, 06_01_45 PM.png",
+      "src": "gallery/service-center/ChatGPT Image Aug 29, 2026, 06_01_45 PM.png"
+    },
+    {
+      "name": "ChatGPT Image Aug 29, 2026, 06_06_35 PM.png",
+      "src": "gallery/service-center/ChatGPT Image Aug 29, 2026, 06_06_35 PM.png"
+    },
+    {
+      "name": "ChatGPT Image Aug 29, 2026, 06_36_09 PM.png",
+      "src": "gallery/service-center/ChatGPT Image Aug 29, 2026, 06_36_09 PM.png"
+    },
+    {
+      "name": "ChatGPT Image Aug 29, 2026, 06_41_19 PM.png",
+      "src": "gallery/service-center/ChatGPT Image Aug 29, 2026, 06_41_19 PM.png"
+    },
+    {
+      "name": "ChatGPT Image Aug 29, 2026, 06_44_38 PM.png",
+      "src": "gallery/service-center/ChatGPT Image Aug 29, 2026, 06_44_38 PM.png"
+    },
+    {
+      "name": "ChatGPT Image Aug 29, 2026, 06_52_03 PM.png",
+      "src": "gallery/service-center/ChatGPT Image Aug 29, 2026, 06_52_03 PM.png"
+    },
+    {
+      "name": "ChatGPT Image Sep 8, 2026, 10_50_11 PM.png",
+      "src": "gallery/service-center/ChatGPT Image Sep 8, 2026, 10_50_11 PM.png"
+    },
+    {
+      "name": "US1.jpeg",
+      "src": "gallery/service-center/US1.jpeg"
+    },
+    {
+      "name": "US10.webp",
+      "src": "gallery/service-center/US10.webp"
+    },
+    {
+      "name": "US2.jpeg",
+      "src": "gallery/service-center/US2.jpeg"
+    },
+    {
+      "name": "US3.jpeg",
+      "src": "gallery/service-center/US3.jpeg"
+    },
+    {
+      "name": "US4.jpeg",
+      "src": "gallery/service-center/US4.jpeg"
+    },
+    {
+      "name": "US5.jpeg",
+      "src": "gallery/service-center/US5.jpeg"
+    },
+    {
+      "name": "US6.jpeg",
+      "src": "gallery/service-center/US6.jpeg"
+    },
+    {
+      "name": "US7.jpeg",
+      "src": "gallery/service-center/US7.jpeg"
+    },
+    {
+      "name": "US8.webp",
+      "src": "gallery/service-center/US8.webp"
+    },
+    {
+      "name": "US9.webp",
+      "src": "gallery/service-center/US9.webp"
+    }
+  ],
+  "washing-machine": [
+    {
+      "name": "image.png",
+      "src": "gallery/washing-machine/image.png"
+    },
+    {
+      "name": "image2.png",
+      "src": "gallery/washing-machine/image2.png"
+    },
+    {
+      "name": "image3.png",
+      "src": "gallery/washing-machine/image3.png"
+    },
+    {
+      "name": "image7.png",
+      "src": "gallery/washing-machine/image7.png"
+    },
+    {
+      "name": "WM1.jpeg",
+      "src": "gallery/washing-machine/WM1.jpeg"
+    },
+    {
+      "name": "WM2.jpeg",
+      "src": "gallery/washing-machine/WM2.jpeg"
+    },
+    {
+      "name": "WM4.jpg",
+      "src": "gallery/washing-machine/WM4.jpg"
+    },
+    {
+      "name": "WM5.jpg",
+      "src": "gallery/washing-machine/WM5.jpg"
+    },
+    {
+      "name": "WM6.jpg",
+      "src": "gallery/washing-machine/WM6.jpg"
+    },
+    {
+      "name": "WM7.jpg",
+      "src": "gallery/washing-machine/WM7.jpg"
+    }
+  ]
+}
